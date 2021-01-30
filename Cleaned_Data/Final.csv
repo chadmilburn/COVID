@@ -1,4 +1,4 @@
-State,Confirmed,Deaths,Density,Pop,LandArea,"Total ""Two Dose Regimen"" Moderna","Total ""Two Dose Regimen"" Pfizer",Pifzer/Moderna Total Doses
+State,Confirmed Cases,COVID Deaths,Population Density,Population,LandArea,Total Two Dose Regimen Moderna,Total Two Dose Regimen Pfizer,Combined Total Doses
 Alabama,449086,7172,97.427,4934190,50645,273100,227175,500275
 Alaska,51603,250,1.2694,724357,570641,84700,62400,147100
 Arizona,738561,12643,66.2016,7520100,113594,387100,323700,710800
