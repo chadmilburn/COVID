@@ -1,0 +1,63 @@
+﻿Airport,State,Code,Rank,Passengers 2009,Rank,Passengers 2018,Rank,"Passengers 2019	",Recent Change,Percent change
+"Atlanta, GA (Hartsfield-Jackson Atlanta International)",Georgia,ATL,1,"42,155,204",1,"51,870,637",1,"53,504,022",26.9,3.1
+"Los Angeles, CA (Los Angeles International)",California ,LAX,3,"27,496,850",2,"42,736,738",2,"42,944,850",56.2,0.5
+"Chicago, IL (Chicago O'Hare International)",Illinois,ORD,2,"31,124,151",3,"39,907,680",3,"40,888,335",31.4,2.5
+"Dallas/Fort Worth, TX (Dallas/Fort Worth International)",Texas ,DFW,4,"26,606,411",4,"32,799,363",4,"35,778,123",34.5,9.1
+"Denver, CO (Denver International)",Colorado,DEN,5,"23,967,369",5,"31,364,910",5,"33,592,342",40.2,7.1
+"New York, NY (John F. Kennedy International)",New York,JFK,6,"22,740,141",6,"30,604,870",6,"31,055,358",36.6,1.5
+"San Francisco, CA (San Francisco International)",California ,SFO,10,"18,450,441",7,"27,849,248",7,"27,708,869",50.2,-0.5
+"Seattle, WA (Seattle/Tacoma International)",Washington,SEA,16,"15,252,175",8,"24,009,999",8,"24,968,689",63.7,4
+"Orlando, FL (Orlando International)",Florida,MCO,13,"16,356,403",10,"23,196,410",9,"24,572,339",50.2,5.9
+"Las Vegas, NV (McCarran International)",Nevada,LAS,7,"19,321,196",9,"23,692,967",10,"24,462,857",26.6,3.2
+"Charlotte, NC (Charlotte Douglas International)",,CLT,11,"17,160,692",12,"22,280,946",11,"24,198,350",41,8.6
+"Newark, NJ (Newark Liberty International)",,EWR,12,"16,704,844",11,"22,819,353",12,"23,171,827",38.7,1.5
+"Phoenix, AZ (Phoenix Sky Harbor International)",,PHX,9,"18,557,881",13,"21,637,313",13,"22,433,224",20.9,3.7
+"Houston, TX (George Bush Intercontinental/Houston)",,IAH,8,"19,285,930",14,"21,167,455",14,"21,906,246",13.6,3.5
+"Miami, FL (Miami International)",,MIA,14,"16,251,940",15,"21,064,841",15,"21,451,522",32,1.8
+"Boston, MA (Logan International)",,BOS,19,"12,555,629",16,"20,016,919",16,"20,698,604",64.9,3.4
+"Minneapolis, MN (Minneapolis-St Paul International)",,MSP,15,"15,535,789",17,"18,359,088",17,"19,187,290",23.5,4.5
+"Detroit, MI (Detroit Metro Wayne County)",,DTW,17,"15,196,473",19,"17,436,025",18,"18,141,814",19.4,4
+"Fort Lauderdale, FL (Fort Lauderdale-Hollywood International)",,FLL,23,"10,242,482",18,"17,617,757",19,"17,957,583",75.3,1.9
+"Philadelphia, PA (Philadelphia International)",,PHL,18,"15,002,031",20,"15,279,455",20,"16,006,012",6.7,4.8
+"New York, NY (LaGuardia)",,LGA,21,"11,084,061",21,"15,079,361",21,"15,393,464",38.9,2.1
+"Baltimore, MD (Baltimore/Washington International Thurgood Marshall)",,BWI,22,"10,291,962",22,"13,338,802",22,"13,252,699",28.8,-0.6
+"Salt Lake City, UT (Salt Lake City International)",,SLC,24,"9,901,447",23,"12,224,983",23,"12,839,565",29.7,5
+"San Diego, CA (San Diego International)",,SAN,27,"8,449,034",24,"12,175,872",24,"12,647,914",49.7,3.9
+"Washington, DC (Washington Dulles International)",,IAD,20,"11,122,438",25,"11,638,059",25,"11,892,778",6.9,2.2
+"Washington, DC (Ronald Reagan Washington National)",,DCA,26,"8,489,931",26,"11,366,627",26,"11,595,425",36.6,2
+"Tampa, FL (Tampa International)",,TPA,28,"8,262,489",28,"10,372,061",27,"10,938,863",32.4,5.5
+"Chicago, IL (Chicago Midway International)",,MDW,29,"8,252,347",27,"10,672,938",28,"10,080,385",22.2,-5.6
+"Honolulu, HI (Honolulu International)",,HNL,25,"8,732,462",30,"9,576,556",29,"9,977,213",14.3,4.2
+"Portland, OR (Portland International)",,PDX,30,"6,427,154",29,"9,804,328",30,"9,796,383",52.4,-0.1
+"Nashville, TN (Nashville International)",,BNA,39,"4,384,150",31,"7,821,345",31,"8,934,552",103.8,14.2
+"Austin, TX (Austin - Bergstrom International)",,AUS,44,"4,025,767",33,"7,712,980",32,"8,506,262",111.3,10.3
+"Dallas, TX (Dallas Love Field)",,DAL,50,"3,673,477",32,"7,819,030",33,"8,079,316",119.9,3.3
+"St. Louis, MO (Lambert-St. Louis International)",,STL,31,"6,082,942",34,"7,614,813",34,"7,759,485",27.6,1.9
+"San Jose, CA (Norman Y. Mineta San Jose International)",,SJC,41,"4,097,776",36,"7,029,011",35,"7,686,835",87.6,9.4
+"Houston, TX (William P Hobby)",,HOU,43,"4,086,285",35,"7,051,784",36,"7,068,876",73,0.2
+"Raleigh/Durham, NC (Raleigh-Durham International)",,RDU,38,"4,435,107",39,"6,256,810",37,"6,918,819",56,10.6
+"New Orleans, LA (Louis Armstrong New Orleans International)",,MSY,46,"3,916,380",38,"6,581,438",38,"6,873,307",75.5,4.4
+"Oakland, CA (Metropolitan Oakland International)",,OAK,36,"4,643,876",37,"6,684,328",39,"6,558,024",41.2,-1.9
+"Sacramento, CA (Sacramento International)",,SMF,37,"4,460,523",40,"5,907,271",40,"6,454,329",44.7,9.3
+"Kansas City, MO (Kansas City International)",,MCI,34,"4,891,704",41,"5,790,390",41,"5,759,138",17.7,-0.5
+"Santa Ana, CA (John Wayne Airport-Orange County)",,SNA,40,"4,310,909",42,"5,197,857",42,"5,152,338",19.5,-0.9
+"Fort Myers, FL (Southwest Florida International)",,RSW,51,"3,671,595",47,"4,604,328",43,"5,043,752",37.4,9.5
+"San Antonio, TX (San Antonio International)",,SAT,48,"3,788,739",43,"4,843,594",44,"5,033,308",32.8,3.9
+"Cleveland, OH (Cleveland-Hopkins International)",,CLE,35,"4,703,889",44,"4,700,750",45,"4,894,144",4,4.1
+"Pittsburgh, PA (Pittsburgh International)",,PIT,45,"3,956,374",45,"4,668,127",46,"4,713,632",19.1,1
+"Indianapolis, IN (Indianapolis International)",,IND,49,"3,720,962",46,"4,652,258",47,"4,706,407",26.5,1.2
+"San Juan, PR (Luis Munoz Marin International)",,SJU,42,"4,091,898",49,"4,009,271",48,"4,561,444",11.5,13.8
+"Cincinnati, OH (Cincinnati/Northern Kentucky International)",,CVG,32,"5,193,737",48,"4,268,890",49,"4,413,366",-15,3.4
+"Columbus, OH (Port Columbus International)",,CMH,52,"3,096,368",50,"3,975,061",50,"4,170,705",34.7,4.9
+"Top 50 U.S. Airports, totala",,,,"578,303,267",,"759,150,897",,"786,330,984",36,3.6
+All U.S. Airportsb,,,,"695,880,306",,"898,247,989",,"934,168,031",34.2,4
+,,,,,,,,,,
+a The 2009 and 2018 totals for the top 50 airports may not sum from the individual airports because some top 50 airports in 2019 were not in the top 50 in earlier years.,,,,,,,,,,
+"b All U.S. airports consists of 1,270 airports as of 2018 and includes Puerto Rico, U.S. Virgin Islands and U.S. Pacific Trust Territories and Possessions.",,,,,,,,,,
+,,,,,,,,,,
+NOTES:,,,,,,,,,,
+Data source starting in 2018 was changed to more accurately report number of enplaned passengers in the U.S. Previous years also reflect this change and may not be compatible with previous versions of this table.,,,,,,,,,,
+"Beginning in October 2002, data reports were expanded to include data for carriers that fly aircraft with 60 seats or less or having a payload capacity of 18,000 lbs. or less.",,,,,,,,,,
+,,,,,,,,,,
+SOURCE:  ,,,,,,,,,,
+"U.S. Department of Transportation, Bureau of Transportation Statistics, Office of Airline Information (Air Carriers Statistics - Form 41 Traffic), T-100 Market (All Carriers), available at http://transtats.bts.gov/ as of Jul. 22, 2020.",,,,,,,,,,
